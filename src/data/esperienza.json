@@ -1,0 +1,48 @@
+[
+    {
+        "id": "istruzione",
+        "label": "Istruzione",
+        "icon": "🧑‍🎓",
+        "items": [
+            {
+                "id": "diploma",
+                "label": "Diploma in Perito Informatico",
+                "icon": "💻"
+            }
+        ]
+    },
+    {
+        "id": "lavoro",
+        "label": "Lavoro",
+        "icon": "💼",
+        "items": [
+            {
+                "id": "sviluppatore",
+                "label": "Sviluppatore Software",
+                "icon": "💻"
+            },
+            {
+                "id": "project_manager",
+                "label": "Project Manager",
+                "icon": "📊"
+            }
+        ]
+    },
+    {
+        "id": "hobby",
+        "label": "Hobby",
+        "icon": "⚽",
+        "items": [
+            {
+                "id": "giocare_calcio",
+                "label": "Giocare a Calcio",
+                "icon": "⚽"
+            },
+            {
+                "id": "leggere_libri",
+                "label": "Leggere Libri",
+                "icon": "📚"
+            }
+        ]
+    }
+]

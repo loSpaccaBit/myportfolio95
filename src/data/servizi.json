@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Mobile App",
+        "description": "Sono l'artigiano digitale che trasforma idee in app straordinarie, unendo creatività e funzionalità per creare esperienze utente coinvolgenti e indimenticabili. Le tue idee prenderanno vita nelle mie mani magistrali. 📱✨"
+    },
+    {
+        "id": 2,
+        "title": "Siti Web",
+        "description": "Ogni pixel del tuo sito web è una tela su cui dipingo la tua visione, trasformando il tuo brand in una presenza online magnetica. Con le mie capacità tecniche e la mia passione per il design, renderò il tuo sito web un capolavoro digitale che cattura l'attenzione e ispira azioni. 🌐💻"
+    },
+    {
+        "id": 3,
+        "title": "Console App",
+        "description": "Le tue idee diventano realtà con le mie console app. Con una combinazione di ingegnosità tecnica e intuizione creativa, creo esperienze immersive e coinvolgenti che lasciano un'impronta duratura. Dall'idea alla realizzazione, trasformerò il tuo concetto in un'esperienza interattiva e memorabile su console. 🎮💼"
+    }
+]

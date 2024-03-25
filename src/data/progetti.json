@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Napoli Smart",
+        "text": "L'app per tutta Napoli!",
+        "link": "https://github.com/loSpaccaBit/NapoliSmart.git",
+        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/NapoliSmart/main/AppIcons/Napoli.jpg",
+        "target": "_blank"
+    },
+    {
+        "id": 2,
+        "title": "Napoli Smart",
+        "text": "L'app per tutta Napoli!",
+        "link": "https://github.com/loSpaccaBit/NapoliSmart.git",
+        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/NapoliSmart/main/AppIcons/Napoli.jpg",
+        "target": "_blank"
+    },
+    {
+        "id": 3,
+        "title": "Napoli Smart",
+        "text": "L'app per tutta Napoli!",
+        "link": "https://github.com/loSpaccaBit/NapoliSmart.git",
+        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/NapoliSmart/main/AppIcons/Napoli.jpg",
+        "target": "_blank"
+    }
+]
