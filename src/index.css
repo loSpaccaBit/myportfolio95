@@ -17,6 +17,8 @@
 }
 body {
   cursor: url("./assets/cursor.cur"), auto;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
 }
 
 #hero {

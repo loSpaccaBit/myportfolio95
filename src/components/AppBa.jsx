@@ -22,7 +22,7 @@ function AppBa() {
   const [open, setOpen] = useState(false);
 
   return (
-    <AppBar>
+    <AppBar style={{ zIndex: 1000000 }}>
       <Toolbar style={{ justifyContent: 'space-between' }}>
         <div style={{ position: 'relative', display: 'inline-block' }}>
 
@@ -42,9 +42,9 @@ function AppBa() {
               </span>
             </MenuListItem>
             <Handle size={38} />
-            <MenuListItem size="sm" primary as={'a'} href='https://google.com' target='_blank'>Home</MenuListItem>
-            <MenuListItem size="sm">Progetti</MenuListItem>
-            <MenuListItem size="sm">Blog</MenuListItem>
+            <MenuListItem size="sm" primary as={'a'} href='/'>Home</MenuListItem>
+            <MenuListItem size="sm" as={'a'} href="#progetti">Progetti</MenuListItem>
+            <MenuListItem size="sm" as={'a'} href='#blog'>Blog</MenuListItem>
           </MenuList>
         </div>
       </Toolbar>

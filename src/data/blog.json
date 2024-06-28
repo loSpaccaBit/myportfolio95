@@ -1,10 +1,34 @@
 [
     {
         "id": 1,
-        "title": "300+ React",
-        "text": "Today I prepared a huge list of React Interview Questions from this awesome repo. For more info, I have developed a project with more than 500 questions for Frontend Devs",
+        "title": "300+ Domande di React",
+        "text": "Oggi ho preparato una lista enorme di Domande per Colloqui su React da questo fantastico repository. Per maggiori informazioni, ho sviluppato un progetto con più di 500 domande per Sviluppatori Frontend",
         "link": "https://dev.to/sakhnyuk/300-react-interview-questions-2ko4",
         "linkImg": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F3zf2vymxhej8006pi1fi.png",
+        "target": "_blank"
+    },
+    {
+        "id": 2,
+        "title": "Guida Completa a Node.js",
+        "text": "Questa guida copre tutto ciò che devi sapere su Node.js, dal setup iniziale ai moduli avanzati.",
+        "link": "https://dev.to/hellnar/nodejs-roadmap-for-beginners-25ml",
+        "linkImg": "https://media.dev.to/cdn-cgi/image/width=800,height=400,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fylzmig1vxwdyeym3xwuc.png",
+        "target": "_blank"
+    },
+    {
+        "id": 3,
+        "title": "CSS Grid Layout: Una Guida Pratica",
+        "text": "Impara a creare layout complessi con CSS Grid con questa guida pratica e ricca di esempi.",
+        "link": "https://dev.to/rezi/css-grid-system-for-future-web-fluid-grid-19nb",
+        "linkImg": "https://media.dev.to/cdn-cgi/image/width=800,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88fj1eqx8ft6es873mq2.png",
+        "target": "_blank"
+    },
+    {
+        "id": 4,
+        "title": "Introduzione a TypeScript",
+        "text": "Scopri i concetti base e avanzati di TypeScript in questa guida dettagliata per principianti.",
+        "link": "https://dev.to/przemyslawjanbeigert/how-to-write-a-constant-in-the-typescript-gmn",
+        "linkImg": "https://media.dev.to/cdn-cgi/image/width=800,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flfmwgnn3pf1b4n6p5juu.png",
         "target": "_blank"
     }
 ]

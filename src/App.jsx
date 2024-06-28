@@ -44,7 +44,7 @@ const App = () => (
         <Tree data={esperienza} />
       </section>
       <section className='p-8'>
-        <h2 className='text-3xl'>Progetti</h2>
+        <h2 className='text-3xl' id='progetti'>Progetti</h2>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6'>
           {progetti.map((p, index) => (
             <Card key={index} title={p.title} text={p.text} link={p.link} linkImg={p.linkImg} target={p.target} />
@@ -57,7 +57,7 @@ const App = () => (
         <InpuText />
       </section>
       <section className='p-8'>
-        <h2 className='text-3xl'>Blog</h2>
+        <h2 className='text-3xl' id='blog'>Blog</h2>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6'>
           {postBlog.map((p, index) => (
             <Card key={index} title={p.title} text={p.text} link={p.link} linkImg={p.linkImg} target={p.target} />

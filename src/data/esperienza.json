@@ -6,7 +6,7 @@
         "items": [
             {
                 "id": "diploma",
-                "label": "Diploma in Perito Informatico",
+                "label": "Diploma in Informatica&Telecomunicazioni",
                 "icon": "💻"
             }
         ]
@@ -31,17 +31,12 @@
     {
         "id": "hobby",
         "label": "Hobby",
-        "icon": "⚽",
+        "icon": "🎮",
         "items": [
             {
-                "id": "giocare_calcio",
-                "label": "Giocare a Calcio",
-                "icon": "⚽"
-            },
-            {
-                "id": "leggere_libri",
-                "label": "Leggere Libri",
-                "icon": "📚"
+                "id": "programmare",
+                "label": "Sviluppo Software",
+                "icon": "🛠️"
             }
         ]
     }

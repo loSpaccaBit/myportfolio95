@@ -9,18 +9,18 @@
     },
     {
         "id": 2,
-        "title": "Napoli Smart",
-        "text": "L'app per tutta Napoli!",
-        "link": "https://github.com/loSpaccaBit/NapoliSmart.git",
-        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/NapoliSmart/main/AppIcons/Napoli.jpg",
+        "title": "Save It ForMe",
+        "text": "L'app per non dimenticarti i tuoi siti preferti!",
+        "link": "https://github.com/loSpaccaBit/saveItForMe.git",
+        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/saveItForMe/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/144.png",
         "target": "_blank"
     },
     {
         "id": 3,
-        "title": "Napoli Smart",
-        "text": "L'app per tutta Napoli!",
-        "link": "https://github.com/loSpaccaBit/NapoliSmart.git",
-        "linkImg": "https://raw.githubusercontent.com/loSpaccaBit/NapoliSmart/main/AppIcons/Napoli.jpg",
+        "title": "FFB Digital Services",
+        "text": "",
+        "link": "https://ffb-digitalservices.netlify.app/",
+        "linkImg": "https://ffb-digitalservices.netlify.app/_ipx/w_640,q_75/%2Flogo.png?url=%2Flogo.png&w=640&q=75",
         "target": "_blank"
     }
 ]
