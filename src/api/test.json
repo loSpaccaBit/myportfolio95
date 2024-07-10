@@ -1,0 +1,104 @@
+{
+    "quiz": [
+        {
+            "question": "Qual è la capitale d'Italia?",
+            "options": [
+                "Milano",
+                "Roma",
+                "Firenze",
+                "Napoli"
+            ],
+            "correctAnswer": "Roma"
+        },
+        {
+            "question": "Qual è il fiume più lungo d'Italia?",
+            "options": [
+                "Arno",
+                "Tevere",
+                "Po",
+                "Adige"
+            ],
+            "correctAnswer": "Po"
+        },
+        {
+            "question": "Qual è il monte più alto d'Italia?",
+            "options": [
+                "Monte Bianco",
+                "Gran Paradiso",
+                "Monte Rosa",
+                "Cervino"
+            ],
+            "correctAnswer": "Monte Bianco"
+        },
+        {
+            "question": "Qual è il capoluogo della regione Lombardia?",
+            "options": [
+                "Bergamo",
+                "Milano",
+                "Brescia",
+                "Monza"
+            ],
+            "correctAnswer": "Milano"
+        },
+        {
+            "question": "Qual è l'isola più grande d'Italia?",
+            "options": [
+                "Sardegna",
+                "Sicilia",
+                "Elba",
+                "Capri"
+            ],
+            "correctAnswer": "Sicilia"
+        },
+        {
+            "question": "In quale regione si trova il Lago di Garda?",
+            "options": [
+                "Lombardia",
+                "Veneto",
+                "Trentino-Alto Adige",
+                "Tutte le precedenti"
+            ],
+            "correctAnswer": "Tutte le precedenti"
+        },
+        {
+            "question": "Quale città è famosa per il suo sistema di canali?",
+            "options": [
+                "Roma",
+                "Venezia",
+                "Firenze",
+                "Napoli"
+            ],
+            "correctAnswer": "Venezia"
+        },
+        {
+            "question": "Qual è il capoluogo della regione Sicilia?",
+            "options": [
+                "Catania",
+                "Palermo",
+                "Messina",
+                "Trapani"
+            ],
+            "correctAnswer": "Palermo"
+        },
+        {
+            "question": "Quale regione italiana è famosa per il vino Chianti?",
+            "options": [
+                "Piemonte",
+                "Toscana",
+                "Veneto",
+                "Emilia-Romagna"
+            ],
+            "correctAnswer": "Toscana"
+        },
+        {
+            "question": "Qual è il fiume che attraversa Firenze?",
+            "options": [
+                "Po",
+                "Adige",
+                "Arno",
+                "Tevere"
+            ],
+            "correctAnswer": "Arno"
+        }
+    ]
+}

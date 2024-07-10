@@ -54,7 +54,7 @@ const App = () => (
       <section className='flex flex-col items-center justify-center p-8'>
         <h2 className='text-2xl mb-4'>Hai un'idea che vuoi realizzare?</h2>
         <h2 className='text-3xl text-green-500 '>Parliamone</h2>
-        <InpuText />
+        <InpuText placeholder="ciao." />
       </section>
       <section className='p-8'>
         <h2 className='text-3xl' id='blog'>Blog</h2>
